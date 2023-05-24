@@ -35,6 +35,6 @@ int main() {
     myCrush.addQuality("Your sense of humor");
 
     myCrush.displayQualities();
-
+// CodewavesIT MIS All Rights Reserve
     return 0;
 }
